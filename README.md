@@ -6,7 +6,7 @@ JAVA
 
 1. Array
 ```
-String [] = { 1, 2, 3, 4 };
+String [] = { "1", "2", "3", "4" };
 
 String [] classGroup = new String[4];
 
